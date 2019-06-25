@@ -2,13 +2,19 @@
 
 ### Support for Jenkinsfile syntax highlighting
 
-Copy Jenkknsfile.xml to your filetypes folder, and restart PyCharm
+<br />
+<br />
+<br />
+Copy Jenkinsfile.xml to your **filetypes** folder, and restart PyCharm
 
-#### Linux
-/.PyCharmXX/config/filetypes
+
+<br />
 
 #### macOs
 ~/Library/Preferences/PyCharmXX/filetypes
+
+#### Linux
+/.PyCharmXX/config/filetypes
 
 #### Windows
 <User home>\.PyCharmXX\config
