@@ -1,7 +1,7 @@
 # pycharm-jenkinsfile
 
 ### Support for Jenkinsfile syntax highlighting
-<img src="sc.png" width="200" height="200" />
+<img src="sc.png" width="50%" height="50%" />
 
 
 <br />
