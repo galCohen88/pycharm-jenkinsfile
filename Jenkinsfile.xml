@@ -12,10 +12,10 @@
       <option name="HAS_STRING_ESCAPES" value="true" />
       <option name="LINE_COMMENT_AT_START" value="true" />
     </options>
-    <keywords keywords="def;else;if;import" ignore_case="true" />
+    <keywords keywords="def;else;if;import;print;return" ignore_case="true" />
     <keywords2 keywords="node" />
     <keywords3 keywords="stage" />
-    <keywords4 keywords="field;library;print" />
+    <keywords4 keywords="field;library;string" />
   </highlighting>
   <extensionMap>
     <mapping pattern="Jenkinsfile" />
