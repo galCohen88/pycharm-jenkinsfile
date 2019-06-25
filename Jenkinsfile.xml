@@ -14,8 +14,8 @@
     </options>
     <keywords keywords="def;else;if;import;print;return" ignore_case="true" />
     <keywords2 keywords="node" />
-    <keywords3 keywords="stage" />
-    <keywords4 keywords="field;library;string" />
+    <keywords3 keywords="field;library;stage;string" />
+    <keywords4 />
   </highlighting>
   <extensionMap>
     <mapping pattern="Jenkinsfile" />
