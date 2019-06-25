@@ -2,7 +2,7 @@
 
 ### Support for Jenkinsfile syntax highlighting
 
-![Alt text](sc.png "Title")
+![Alt text](sc.png =100x200)
 
 <br />
 Copy Jenkinsfile.xml to your filetypes folder, and restart PyCharm
