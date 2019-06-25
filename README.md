@@ -1,8 +1,8 @@
 # pycharm-jenkinsfile
 
 ### Support for Jenkinsfile syntax highlighting
+<img src="sc.png" width="200" height="200" />
 
-![Alt text](sc.png){:height="120px" width="100px"}
 
 <br />
 Copy Jenkinsfile.xml to your filetypes folder, and restart PyCharm
