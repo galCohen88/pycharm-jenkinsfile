@@ -8,7 +8,7 @@ Copy Jenkinsfile.xml to your filetypes folder, and restart PyCharm
 
 <br />
 
-#### macOs
+#### macOS
 ```
 ~/Library/Preferences/PyCharmXX/filetypes
 ```
