@@ -2,7 +2,7 @@
 
 ### Support for Jenkinsfile syntax highlighting
 
-![Alt text](sc.png)){:height="50%" width="50%"}.
+![Alt text](sc.png)){:height="120px" width="100px"}.
 
 <br />
 Copy Jenkinsfile.xml to your filetypes folder, and restart PyCharm
