@@ -1,6 +1,5 @@
-# PyCharm-Jenkinsfile
+# PyCharm Jenkinsfile syntax highlight support
 
-### PyCharm Jenkinsfile syntax highlight support
 <img src="sc.png" width="80%" height="80%" />
 
 
