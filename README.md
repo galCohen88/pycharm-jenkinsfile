@@ -21,5 +21,5 @@ Copy Jenkinsfile.xml to your filetypes folder, and restart PyCharm
 
 #### Windows
 ```
-<User home>\.PyCharmXX\config
+<User home>\.PyCharmXX\config\filetypes
 ```
