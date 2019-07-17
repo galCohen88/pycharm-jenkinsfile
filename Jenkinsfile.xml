@@ -15,7 +15,7 @@
     <keywords keywords="def;else;if;import;print;return" ignore_case="true" />
     <keywords2 keywords="node" />
     <keywords3 keywords="field;library;stage;string" />
-    <keywords4 />
+    <keywords4 keywords="try;catch;finally" />
   </highlighting>
   <extensionMap>
     <mapping pattern="Jenkinsfile" />
