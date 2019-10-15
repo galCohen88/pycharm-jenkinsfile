@@ -19,5 +19,6 @@
   </highlighting>
   <extensionMap>
     <mapping pattern="Jenkinsfile" />
+    <mapping pattern="Jenkinsfile*" />
   </extensionMap>
 </filetype>
